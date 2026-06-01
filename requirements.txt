@@ -1,0 +1,9 @@
+python-docx==0.8.11
+openpyxl==3.10.4
+PyMuPDF==1.23.3
+pdf2image==1.16.3
+Pillow==10.0.0
+opencv-python==4.8.0.74
+ImageHash==4.3.1
+scikit-image==0.21.0
+numpy==1.24.3
